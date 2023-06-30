@@ -1,0 +1,16 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "basic_tim.h": "c",
+        "protocol.h": "c",
+        "main.h": "c",
+        "stm32f1xx_hal_tim.h": "c",
+        "stm32f1xx.h": "c",
+        "stm32f1xx_hal_usart.h": "c",
+        "adc.h": "c",
+        "usart.h": "c",
+        "serial_port.h": "c",
+        "stm32f1xx_hal.h": "c",
+        "adc_gather.h": "c"
+    }
+}
